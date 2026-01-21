@@ -19,6 +19,8 @@ _Get started using GitHub in less than an hour._
   and tell the learner why they should take the course.
 -->
 
+_test_request_
+
 _go run main.go_
 
 ## Welcome
